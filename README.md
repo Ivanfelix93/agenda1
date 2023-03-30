@@ -32,7 +32,8 @@ Importar a lista de contatos a partir de um arquivo csv.
 * Abra o terminal e navegue até a pasta do projeto.
 * Execute o arquivo agenda.py com o comando python agenda.py.
 * Utilize o menu para navegar pelas funcionalidades da agenda.
-	
+* Python 3 ou superior 
+
 
 ## 🚀 Tecnologias
 
