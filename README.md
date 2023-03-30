@@ -24,8 +24,8 @@ A agenda permite:
 * Adicionar contatos;
 * Editar contatos existentes;
 * Excluir contatos;
-* Exportar a lista de contatos em formato csv;
-Importar a lista de contatos a partir de um arquivo csv.
+* Exportar a lista de contatos em formato csv; 
+* Importar a lista de contatos a partir de um arquivo csv.
 
 ## 👩🏻‍💻 Comandos para usar
 * Clone o repositório para o seu computador.
