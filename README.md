@@ -3,13 +3,13 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Como usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Comandos para usar">Comandos para usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  
 </p>
 
 
-## 🛈 Sobre
+## 📌 Sobre
 
 <p align="justify">
 Este é um projeto de uma agenda em Python que utiliza o console como interface. É possível adicionar, buscar, editar e excluir contatos, além de exportar e importar a agenda em formato csv.
@@ -24,10 +24,10 @@ A agenda permite:
 * Adicionar contatos;
 * Editar contatos existentes;
 * Excluir contatos;
-* * Exportar a lista de contatos em formato csv;
+* Exportar a lista de contatos em formato csv;
 Importar a lista de contatos a partir de um arquivo csv.
 
-## 👩🏻‍💻 Como usar
+## 👩🏻‍💻 Comandos para usar
 * Clone o repositório para o seu computador.
 * Abra o terminal e navegue até a pasta do projeto.
 * Execute o arquivo agenda.py com o comando python agenda.py.
